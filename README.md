@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/princekaran1016" target="blank"><img src="https://img.shields.io/twitter/follow/princekaran1016?logo=twitter&style=for-the-badge" alt="princekaran1016" /></a> </p>
 
-- 🌱 I’m currently Working **Power BI, Python,Excel,SQL**
+- 🌱 I’m currently Working on **Power BI, Python,Excel,SQL**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
