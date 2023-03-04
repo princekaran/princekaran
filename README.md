@@ -9,13 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/princekaran1016" target="blank"><img src="https://img.shields.io/twitter/follow/princekaran1016?logo=twitter&style=for-the-badge" alt="princekaran1016" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI, Python,Excel,SQL**
+- 🌱 I’m currently Working **Power BI, Python,Excel,SQL**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/princekaran](https://github.com/princekaran)
 
-- 📫 How to reach me **karanchaudhari101@gmail.com**
+- 📫 Reach me on **karanchaudhari101@gmail.com** 
+                  - OR 
+- **www.linkedin.com/in/karan-chaudhari007**
 
 - ⚡ Fun fact **I think I am Funny**
 
